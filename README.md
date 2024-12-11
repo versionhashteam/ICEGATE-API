@@ -1,4 +1,4 @@
-# Shipping Bill & Bill of entry PDF API
+# Shipping Bill & Bill of entry PDF API (ICEGATE API)
 
 Extract structured data from ICEGATE PDFs (Shipping Bills & Bills of Entry) in JSON format using advanced AI/ML models.
 
